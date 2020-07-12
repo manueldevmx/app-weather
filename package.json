@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/manueldevmx/app-weather/issues"
   },
-  "homepage": "https://github.com/manueldevmx/app-weather#readme"
+  "homepage": "https://github.com/manueldevmx/app-weather#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
 }
